@@ -1,0 +1,8 @@
+{
+  "name": "San Andreas Network - News & Lore",
+  "description": "Um portal de notícias completo e imersivo sobre o universo de GTA San Andreas, com integração de IA para resumo de mods, speedruns e curiosidades da CJ's Grove Street.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
